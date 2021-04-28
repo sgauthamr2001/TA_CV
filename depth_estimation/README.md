@@ -1,4 +1,5 @@
 #Repository Guide
+
 *references : Contains all the research papers we went through
 *test_input : Contains the images that are run through the model
 *test_output : Contains the output from the model for the input images from test_input
