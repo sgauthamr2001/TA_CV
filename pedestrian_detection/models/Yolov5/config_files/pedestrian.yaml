@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /content/drive/My Drive/yolov5/data/train.txt
+val: /content/drive/My Drive/yolov5/data/val.txt
+test: /content/drive/My Drive/yolov5/data/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Pedestrian']
